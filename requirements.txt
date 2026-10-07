@@ -1,0 +1,6 @@
+streamlit>=1.50
+pymupdf>=1.26
+pillow>=10.0
+pydantic>=2.7
+google-genai>=1.60
+pytesseract>=0.3.13
